@@ -85,6 +85,10 @@ body {
   color: var(--light-txt-clr);
   background-color: var(--accent-clr);
 }
+.hero-btn:hover,
+.hero-btn:focus {
+  background: #188ce8;
+}
 /* =========END HERO SECTION========= */
 
 /* =========FEATURE SECTION========= */
